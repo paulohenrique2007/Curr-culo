@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    
+    
+
+ 
+<meta charset="UTF-8">
+    
+    <
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo de [Seu Nome]</title>
+    
+  
+<style>
+        bo
+
+      
+
+ 
+
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            border-radius: 8px;
+        }
+        header {
+            text-align: center;
+            border-bottom: 2px solid #333;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        header h1 {
+            margin: 0;
+            color: #0056b3;
+        }
+        header p {
+            margin: 5px 0;
+            color: #666;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h2 {
+            border-bottom: 2px solid #0056b3;
+            padding-bottom: 5px;
+            color: #0056b3;
+        }
+        .section p {
+            margin: 10px 0;
+        }
+        .experience-item, .education-item {
+            margin-bottom: 10px;
+        }
+        .experience-item h3, .education-item h3 {
+            margin: 0;
+            color: #333;
+        }
+        .experience-item p, .education-item p {
+            margin: 5px 0;
+            color: #555;
+        }
+    </style>
+
+</head
+
+<
+</head>
+<body>
+    
+   
+<div class="container">
+        
+      
+<header>
+            
+     
+<h1>[Seu Nome]</h1>
+            
+           
+
+       
+<p>[Seu Cargo] | [Seu E-mail] | [Seu Telefone]</p>
+        
+        </he
+
+     
+</header>
+        <section class="section">
+            
+ 
+<h2>Experiência Profissional</h2>
+            
+       
+
+ 
+<div class="experience-item">
+                
+           
+
+     
+<h3>[Cargo na Empresa]</h3>
+                
+              
+
+   
+<p>[Nome da Empresa] | [Ano de Início] - [Ano de Término]</p>
+                
+              
+
+       
+<p>[Descrição das responsabilidades e conquistas]</p>
+            
+    
+</div>
+            
+            
+
+    
+<!-- Adicione mais itens de experiência conforme necessário -->
+        
+        </sect
+
+        
+
+ 
+</section>
+        
+      
+<section class="section">
+            
+      
+
+ 
+<h2>Habilidades</h2>
+            
+            
+
+    
+<p>[Liste suas habilidades principais, como linguagens de programação, ferramentas, etc.]</p>
+        
+        </sectio
+
+     
+</section>
+        
+        <
+
+   
+<section class="section">
+            
+            
+
+       
+<h2>Educação</h2>
+            
+ 
+<div class="education-item">
+                
+        
+
+  
+<h3>[Nome do Curso]</h3>
+                
+                
+
+          
+
+    
+<p>[Nome da Instituição] | [Ano de Conclusão]</p>
+                
+              
+
+       
+
+ 
+<p>[Descrição relevante, como projetos ou especializações]</p>
+            
+  
+</div>
+            
+         
+<!-- Adicione mais itens de educação conforme necessário -->
+        
+        </sectio
+
+    
+</section>
+    
+   
+</div>
+
+</bod
+</body>
+
+</
+</html>
